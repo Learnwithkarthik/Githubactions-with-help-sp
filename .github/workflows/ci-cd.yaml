@@ -1,4 +1,4 @@
-name: Azure Login via Service Principal # sample
+name: Azure Login via Service Principal # sample test for service principal
 
 on:
   push:
